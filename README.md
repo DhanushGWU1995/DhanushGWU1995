@@ -4,7 +4,7 @@
 
 I’m an AWS Certified Cloud Professional and AI/ML enthusiast with **9.5+ years of IT experience** building reliable, scalable, and user-focused solutions.
 
-I am currently pursuing a **Master’s in Data Science at George Washington University** with a **GPA of 3.95**, focusing on **Machine Learning, Data Warehousing, and Deep Learning**.
+I am currently pursuing a **Master’s in Data Science at George Washington University** with a **GPA of 3.95** (2027), focusing on **Machine Learning, Data Warehousing, and Deep Learning**.
 
 ---
 
