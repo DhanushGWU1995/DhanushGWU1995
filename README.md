@@ -1,23 +1,46 @@
 # Hi, I'm Dhanush Mathivanan 👋
 
-## Software Engineer | AI/ML Enthusiast
+## AWS Certified Cloud Professional | AI/ML Enthusiast
 
-I’m a software engineer passionate about building reliable, scalable, and user-focused applications. I enjoy working across the stack and continuously exploring advancements in Artificial Intelligence and Machine Learning.
+I’m an AWS Certified Cloud Professional and AI/ML enthusiast with **9.5+ years of IT experience** building reliable, scalable, and user-focused solutions.
+
+I am currently pursuing a **Master’s in Data Science at George Washington University** with a **GPA of 3.95**, focusing on **Machine Learning, Data Warehousing, and Deep Learning**.
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m focused on developing impactful software solutions with clean architecture and strong engineering practices.
-- 🌱 I’m continuously learning and experimenting with modern technologies in backend, cloud, and AI/ML.
-- 🤝 I enjoy collaborating on projects that solve real-world problems.
+- ☁️ AWS Certified Cloud Professional with hands-on experience in cloud-native architectures.
+- 🎓 Master’s candidate in Data Science at GWU (GPA: 3.95).
+- 🤖 Focused on Machine Learning, Data Warehousing, and Deep Learning.
+- 🧠 Passionate about solving real-world problems through data-driven and scalable engineering solutions.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries:** Spring Boot, React, Node.js
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Databases:** PostgreSQL, MySQL, MongoDB
+
+### Programming
+- Python, R Studio, SQL, TypeScript, JavaScript, ActionScript
+
+### Machine Learning
+- TensorFlow, Scikit-Learn, Hugging Face, Matplotlib, Seaborn
+
+### Web Frameworks
+- Node.js, Express.js, Angular, FastAPI, Streamlit, Terraform, Electron, Redis, Ngrx Redux
+
+### Databases
+- DynamoDB, MySQL, MongoDB, SQLite
+
+### Cloud & DevOps
+- AWS Lambda, AWS CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, Jenkins, Docker
+
+### Web Technologies
+- HTML5, CSS3, JSON, XML, Bootstrap, jQuery
+
+### Testing & Monitoring
+- AWS CloudWatch, Dynatrace, Mocha/Chai, Jasmine/Karma, Chrome DevTools
+
+### Tools & Version Control
+- Git, SVN, Tableau Desktop, VS-Code, PyCharm
 
 ---
 
