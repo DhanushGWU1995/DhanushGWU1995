@@ -4,7 +4,7 @@
 
 I’m an AWS Certified Cloud Professional and AI/ML enthusiast with **9.5+ years of IT experience** building reliable, scalable, and user-focused solutions.
 
-I am currently pursuing a **Master’s in Data Science at George Washington University** with a **GPA of 3.95** (2027), focusing on **Machine Learning, Data Warehousing, and Deep Learning**.
+I am currently pursuing a **Master’s in Data Science at George Washington University** with a **GPA of 3.95** (2027), focusing on **Machine Learning, NLP, Bigdata & Cloud,  Data Warehousing, and Deep Learning**.
 
 ---
 
@@ -28,10 +28,10 @@ I am currently pursuing a **Master’s in Data Science at George Washington Univ
 - Node.js, Express.js, Angular, FastAPI, Streamlit, Terraform, Electron, Redis, Ngrx Redux
 
 ### Databases
-- DynamoDB, MySQL, MongoDB, SQLite
+- DynamoDB, MySQL, MongoDB, SQLite, DuckDb
 
 ### Cloud & DevOps
-- AWS Lambda, AWS CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, Jenkins, Docker
+- AWS EC2, Lambda, AWS CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, Jenkins, Docker
 
 ### Web Technologies
 - HTML5, CSS3, JSON, XML, Bootstrap, jQuery
@@ -40,7 +40,7 @@ I am currently pursuing a **Master’s in Data Science at George Washington Univ
 - AWS CloudWatch, Dynatrace, Mocha/Chai, Jasmine/Karma, Chrome DevTools
 
 ### Tools & Version Control
-- Git, SVN, Tableau Desktop, VS-Code, PyCharm
+- Git, SVN, Tableau Desktop, VS-Code, PyCharm, PySpark
 
 ---
 
