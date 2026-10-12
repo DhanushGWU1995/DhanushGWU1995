@@ -11,7 +11,7 @@ I am currently pursuing a **Master’s in Data Science at George Washington Univ
 ## 👨‍💻 About Me
 - ☁️ AWS Certified Cloud Professional with hands-on experience in cloud-native architectures.
 - 🎓 Master’s candidate in Data Science at George Washington University (GPA: 3.95) 2027.
-- 🤖 Focused on Machine Learning, Data Warehousing, and Deep Learning.
+- 🤖 Focused on Machine Learning, Data Warehousing, NLP, Bigdata and Deep Learning.
 - 🧠 Passionate about solving real-world problems through data-driven and scalable engineering solutions.
 
 ---
