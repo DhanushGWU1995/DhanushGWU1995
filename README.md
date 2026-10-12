@@ -1,6 +1,6 @@
 # Dhanush Mathivanan
 
-**Data science graduate student · AWS certified cloud and Data Professional · Grounded LLM systems**
+**Data Science Graduate Student · AWS Certified Cloud and Data Professional · Grounded LLM systems · Serverless Architectures**
 
 Arlington, VA
 
