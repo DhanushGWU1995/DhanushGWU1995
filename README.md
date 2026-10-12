@@ -73,6 +73,7 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 | Project | What it does |
 | --- | --- |
 | [Torque Diagnostics](https://github.com/DhanushGWU1995/torque-diagnostics) | Grounded technician assistant over ABB manuals. Private repo. |
+| [AI Course Creator](https://course-creator-626594108279.us-central1.run.app/) | Multi-agent system on Google Cloud Run. Researcher, fact-checker, and writer agents turn a topic into a course. |
 | [ECRIS](https://github.com/DhanushGWU1995/6202-machine-learning-project) | Complaint intelligence on U.S. consumer-finance data. [Live Space](https://huggingface.co/spaces/DhanushGWU1995/ECRIS) |
 | [Health status predictor](https://github.com/DhanushGWU1995/6103-data-mining-project) | CatBoost model on CDC BRFSS responses, with an Angular and Flask app |
 | [Heart disease predictor](https://github.com/DhanushGWU1995/6101-mid-term-project) | CDC survey model. [Scoring app](https://dhanushgwu1995.github.io/6101-mid-term-project/predict) |
