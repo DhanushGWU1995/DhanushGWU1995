@@ -12,7 +12,7 @@ Arlington, VA
   <img alt="George Washington University" src="https://img.shields.io/badge/GWU-M.S.%20Data%20Science-033C5A" />
 </p>
 
-Data Science M.S. student at The George Washington University, focused on data and cloud engineering, machine learning, deep learning, NLP, generative AI, and large-scale data systems. AWS certified engineer with **9.7+ years** building distributed microservices, event-driven architectures, and serverless data platforms for global enterprises, along with full-stack applications in TypeScript, Node.js, and Angular.
+Data Science M.S. student at The George Washington University, focused on data and cloud engineering, machine learning, deep learning, NLP, generative AI, and large-scale data systems. AWS certified engineer with **9.7+ years** building distributed microservices, event-driven architectures, and serverless data platforms for global enterprises, along with full-stack applications in Python, TypeScript, Node.js, Javascript, SQL, AWS, Angular, Github, etc.
 
 ---
 
