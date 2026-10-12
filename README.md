@@ -77,6 +77,7 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 | [ECRIS](https://github.com/DhanushGWU1995/6202-machine-learning-project) | Complaint intelligence on U.S. consumer-finance data. [Live Space](https://huggingface.co/spaces/DhanushGWU1995/ECRIS) |
 | [Health status predictor](https://github.com/DhanushGWU1995/6103-data-mining-project) | CatBoost model on CDC BRFSS responses, with an Angular and Flask app |
 | [Heart disease predictor](https://github.com/DhanushGWU1995/6101-mid-term-project) | CDC survey model. [Scoring app](https://dhanushgwu1995.github.io/6101-mid-term-project/predict) |
+| [US unemployment vs job postings](https://github.com/DhanushGWU1995/6401-data-visualization-project) | Tableau dashboard comparing U.S. unemployment with job postings across five economic sectors. |
 | [Role Matrix](https://github.com/DhanushGWU1995/role-matrix) | Resume screening that scores skills and projects, not keywords |
 | [PartSelect assistant](https://github.com/DhanushGWU1995/sample-chat-bot) | Appliance-parts chat with DeepSeek or OpenAI |
 
