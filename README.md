@@ -41,7 +41,7 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 | Mar 2024 – Aug 2025 | Technical Project Specialist / Lead Engineer | Bosch · Client MHP Porsche (Audi AG, Germany) |
 | Sep 2021 – Mar 2024 | Custom Software Engineering Team Lead | Accenture · Client Educational Testing Service (NJ, US) |
 | Nov 2020 – Sep 2021 | Lead Engineer, Full Stack Cloud Engineering | HCL · Client Roche (Switzerland) |
-| Aug 2018 – Nov 2020 | Software Engineer, Full Stack | Object Frontier · Client IFF (NY, US) |
+| Aug 2018 – Nov 2020 | Software Engineer, Full Stack | Object Frontier Software · Client IFF (NY, US) |
 | Oct 2016 – Aug 2018 | Software Engineer, Full Stack | V2Soft · Client Fiat Chrysler Automotives (MI, US)|
 
 **Recent work**
