@@ -88,6 +88,9 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 **M.S. Data Science**, The George Washington University · Aug 2025 – May 2027  
 Coursework: Big Data Analytics, Cloud Computing, Machine Learning, Deep Learning, NLP, Data Warehousing
 
+**B.E. Computer Science**, Anna University BIT Campus · Aug 2012 – April 2016  
+Coursework: Data Structures, Computer Programming, Software Engineering, Web Application Development, Algorithm Design
+
 - Phi Delta Gamma Fellowship, George Washington University (2026)
 - Global Leaders Fellowship, George Washington University (2025)
 - AWS Certified Solutions Architect – Associate, SAA-C03 (2024)
