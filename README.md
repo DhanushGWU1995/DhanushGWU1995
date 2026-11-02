@@ -102,8 +102,8 @@ Coursework: Data Structures, Computer Programming, Software Engineering, Web App
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushGWU1995&show_icons=true&theme=default" alt="Dhanush's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGWU1995&layout=compact&theme=default" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DhanushGWU1995&show_icons=true&theme=default" alt="Dhanush's GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DhanushGWU1995&layout=compact&theme=default" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
