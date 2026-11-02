@@ -46,7 +46,8 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 
 **Recent work**
 
-- Supporting GWU voice, collaboration, and physical security systems, including Splunk alert triage and the migration of 1,000+ users from Cisco CUCM to Zoom Phone
+- Built an AWS Connect, Lex, and Lambda contact center with intent-based self-service, cutting estimated tier-1 manual escalations by 42%
+- Built an EventBridge, S3, Bedrock, and Amazon Q pipeline that publishes knowledge updates every 15 minutes, and own reliability for 10,000+ users and 5,000+ network endpoints with Splunk Cloud
 - Compared search-tree implementations across CRUD operations for data-intensive database workloads
 - Shipped the Porsche workforce-planning platform on AWS serverless: CDKTF, Lambda, API Gateway, DynamoDB, and Cognito
 - Cut ETS exam-result processing time by 50% with Lambda, DynamoDB, SNS/SQS, and CloudFormation
@@ -56,11 +57,11 @@ Other language-model work: [ECRIS](https://github.com/DhanushGWU1995/6202-machin
 
 ## Technical focus
 
-**LLMs and NLP** — retrieval-augmented generation, Qwen2.5, BGE embeddings, BM25, DeBERTa entailment, Hugging Face, DistilBERT, T5
+**LLMs and NLP** — retrieval-augmented generation, Amazon Bedrock, Amazon Q, Amazon Lex, Qwen2.5, BGE embeddings, BM25, DeBERTa entailment, Hugging Face, DistilBERT, T5
 
 **Machine learning** — TensorFlow, Scikit-Learn, Pandas, Polars, Matplotlib, Seaborn
 
-**Cloud** — AWS Lambda, CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, Docker, Terraform, Jenkins
+**Cloud** — AWS Lambda, Connect, Lex, EventBridge, Bedrock, CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, EMR, Splunk, Docker, Terraform, Jenkins, GitHub CI/CD
 
 **Application stack** — Python, TypeScript, JavaScript, SQL, Node.js, Express, Angular, FastAPI, Streamlit, Kafka, Redis
 
@@ -93,6 +94,7 @@ Coursework: Data Structures, Computer Programming, Software Engineering, Web App
 
 - Phi Delta Gamma Fellowship, George Washington University (2026)
 - Global Leaders Fellowship, George Washington University (2025)
+- Introduction to R, DataCamp (2025)
 - AWS Certified Solutions Architect – Associate, SAA-C03 (2024)
 - AWS Certified Developer – Associate, DVA-C02 (2023)
 - Client Value Creation Award and Best People Award, Accenture (2022)
