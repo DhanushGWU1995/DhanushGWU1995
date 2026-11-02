@@ -54,7 +54,7 @@ Matplotlib, Seaborn
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Lambda, Connect, EventBridge, CDK, S3, API Gateway, CloudFormation, Cognito, SQS/SNS, EMR, Splunk
+EC2, CDKTF, Lambda, AWS Connect, AWS Lex, EventBridge, CDK, S3, API Gateway, IAM, CloudFormation, Cognito, SQS/SNS, AWS EMR, Cloud Watch, Splunk
 
 ### Application stack
 
