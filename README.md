@@ -87,23 +87,39 @@ Lambda, Connect, EventBridge, CDK, S3, API Gateway, CloudFormation, Cognito, SQS
 
 **Data Science Intern, Probability Solutions LLC** (VA, US) · Jun 2026 – Aug 2026
 
-- Compared search-tree implementations across CRUD operations for data-intensive database workloads.
+- Studied binary search tree algorithms and how they apply to modern database engines.
+- Built prototypes and measured tree-based algorithms on large inputs.
+- Compared search, insert, delete, and update cost across search-tree implementations.
 
 **Technical Project Specialist / Lead Engineer, Bosch** · Client MHP Porsche (Audi AG, Germany) · Mar 2024 – Aug 2025
 
 - Shipped the Porsche workforce-planning platform on AWS serverless: CDKTF, Lambda, API Gateway, DynamoDB, and Cognito.
+- Built event-driven HR ingestion with JSON schema validation, S3-triggered Lambda, and API Gateway.
+- Synchronized legacy enterprise systems through SNS, SQS, and Lambda.
 
 **Custom Software Engineering Team Lead, Accenture** · Client Educational Testing Service (NJ, US) · Sep 2021 – Mar 2024
 
 - Cut ETS exam-result processing time by 50% with Lambda, DynamoDB, SNS/SQS, and CloudFormation.
+- Validated candidate score events with AJV and processed them through SQS-triggered Lambda workflows.
+- Automated DynamoDB maintenance in Node.js and Python and shipped reusable TypeScript service components.
 
 **Lead Engineer, Full Stack Cloud Engineering, HCL** · Client Roche (Switzerland) · Nov 2020 – Sep 2021
 
 - Cut Roche diagnostic reporting time by 40% with Node.js, Express, Angular, and MySQL.
+- Automated PDF and Excel report generation and reduced manual reporting across laboratory workflows.
+- Secured clinical integrations with OAuth and JWT APIs and AWS S3 storage.
 
 **Software Engineer, Full Stack, Object Frontier Software** · Client IFF (NY, US) · Aug 2018 – Nov 2020
 
+- Built an offline-first Electron desktop app with an embedded Node.js server and SQLite/MySQL sync for manufacturing and supply-chain work.
+- Implemented Angular NgRx state management, including undo and redo across enterprise transactions.
+- Connected Node.js microservices to MySQL with Sequelize and added structured logging with Winston.
+
 **Software Engineer, Full Stack, V2Soft** · Client Fiat Chrysler Automotives (MI, US) · Oct 2016 – Aug 2018
+
+- Built automotive HMI dashboards with Angular, HTML5, and Bootstrap for infotainment and diagnostics.
+- Processed vehicle telemetry with MongoDB batch jobs and Node.js APIs.
+- Connected dashboard modules to Node.js services with Socket.IO for live operational data.
 
 ---
 
