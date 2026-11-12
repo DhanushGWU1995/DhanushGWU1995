@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://dhanushgwu1995.github.io/dhanush-mathivanan-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=720&lines=AWS+certified+cloud+engineer%2C+9.8%2B+years;Serverless+platforms+and+grounded+LLM+systems;An+answer+only+when+the+source+supports+it." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=720&lines=AWS+certified+cloud+and+AI/ML+engineer%2C+9.8%2B+years;Serverless+platforms+and+grounded+LLM+systems;An+answer+only+when+the+source+supports+it." alt="Typing intro" />
   </a>
 </p>
 
