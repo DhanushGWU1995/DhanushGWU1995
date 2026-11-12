@@ -65,9 +65,9 @@ flowchart LR
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/6202-machine-learning-project">ECRIS</a></h4>
-      Complaint intelligence on U.S. consumer-finance data, using DistilBERT and T5. <a href="https://huggingface.co/spaces/DhanushGWU1995/ECRIS">Live Space</a>
+      Complaint intelligence on U.S. consumer-finance data. An LSTM scores customer tone and urgency so complaints can be prioritized. <a href="https://huggingface.co/spaces/DhanushGWU1995/ECRIS">Live Space</a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/T5-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@ flowchart LR
 
 | | |
 | --- | --- |
-| **LLMs and NLP** | Retrieval-augmented generation · Amazon Bedrock · Amazon Q · Amazon Lex · Qwen2.5 · BGE embeddings · BM25 · DeBERTa · Hugging Face · DistilBERT · T5 |
+| **LLMs and NLP** | Retrieval-augmented generation · Amazon Bedrock · Amazon Q · Amazon Lex · Qwen2.5 · BGE embeddings · BM25 · DeBERTa · Hugging Face · DistilBERT · LSTM |
 | **Machine learning** | TensorFlow · scikit-learn · Pandas · Matplotlib · Seaborn |
 | **Big data** | PySpark · AWS EMR · Kafka · Polars · DuckDB · Tableau · data warehousing |
 | **Cloud** | EC2 · CDKTF · Lambda · AWS Connect · AWS Lex · EventBridge · CDK · S3 · API Gateway · IAM · CloudFormation · Cognito · SQS/SNS · AWS EMR · Cloud Watch · Splunk · Docker · Terraform · Jenkins · GitHub Actions |
