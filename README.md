@@ -47,7 +47,7 @@ flowchart LR
       <h4><a href="https://github.com/DhanushGWU1995/torque-diagnostics">Torque Diagnostics</a></h4>
       Technician assistant for ABB drive manuals. Manual text lands in S3, then Polars and DuckDB prepare passages for hybrid BM25 + BGE retrieval, a Qwen2.5 draft, and a DeBERTa gate that cites indexed pages or withholds a procedure the manual does not support. Streamlit chat UI on EC2.
       <br/><br/>
-      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Polars-E5E5E5?style=flat-square&logo=polars&logoColor=black" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/Completed-2D6A5F?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Polars-E5E5E5?style=flat-square&logo=polars&logoColor=black" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/sms-spam-detection">SMS spam detection</a></h4>
