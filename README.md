@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,100:1B4F72&height=180&section=header&text=Dhanush%20Mathivanan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20AWS%20Cloud%20%C2%B7%20Grounded%20LLMs&descSize=16&descAlignY=58" alt="Dhanush Mathivanan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,100:1B4F72&height=180&section=header&text=Dhanush%20Mathivanan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20Big%20Data%20%C2%B7%20AWS%20Cloud%20%C2%B7%20Grounded%20LLMs&descSize=14&descAlignY=58" alt="Dhanush Mathivanan" />
 </p>
 
 <p align="center">
   <a href="https://dhanushgwu1995.github.io/dhanush-mathivanan-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=720&lines=AWS+certified+cloud+and+AI/ML+engineer%2C+9.8%2B+years;Serverless+platforms+and+grounded+LLM+systems;An+answer+only+when+the+source+supports+it." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4F72&center=true&vCenter=true&width=760&lines=AWS+certified+cloud+and+AI/ML+engineer%2C+9.8%2B+years;Serverless+platforms%2C+PySpark%2C+and+AWS+EMR;Grounded+LLM+systems+that+cite+or+withhold." alt="Typing intro" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ### Hi, I'm Dhanush
 
-Data Science M.S. student at The George Washington University. AWS certified engineer with **9.8+ years** building distributed microservices, event-driven systems, and serverless data platforms for global enterprises, plus full-stack applications in Python, TypeScript, Node.js, JavaScript, SQL, and Angular.
+Data Science M.S. student at The George Washington University (coursework includes Big Data Analytics and Data Warehousing). AWS certified engineer with **9.8+ years** building distributed microservices, event-driven systems, and serverless data platforms for global enterprises, plus full-stack applications in Python, TypeScript, Node.js, JavaScript, SQL, and Angular. Big-data stack includes PySpark and AWS EMR.
 
 ---
 
@@ -45,9 +45,9 @@ flowchart LR
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/torque-diagnostics">Torque Diagnostics</a></h4>
-      Technician assistant for ABB drive manuals. Hybrid BM25 + BGE retrieval, a Qwen2.5 draft, and a DeBERTa gate that cites indexed pages or withholds a procedure the manual does not support. Streamlit chat UI on EC2.
+      Technician assistant for ABB drive manuals. Manual text lands in S3, then Polars and DuckDB prepare passages for hybrid BM25 + BGE retrieval, a Qwen2.5 draft, and a DeBERTa gate that cites indexed pages or withholds a procedure the manual does not support. Streamlit chat UI on EC2.
       <br/><br/>
-      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Qwen2.5-0B1F33?style=flat-square" /> <img src="https://img.shields.io/badge/Completed-2D6A5F?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Polars-E5E5E5?style=flat-square&logo=polars&logoColor=black" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/Completed-2D6A5F?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/sms-spam-detection">SMS spam detection</a></h4>
@@ -163,16 +163,17 @@ flowchart LR
 ### Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,linux,tensorflow,sklearn,pandas,docker,aws,githubactions,nodejs,angular,fastapi,redis,mysql,mongodb&perline=8" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,linux,tensorflow,sklearn,pandas,spark,docker,aws,githubactions,nodejs,angular,fastapi,redis,mysql,mongodb&perline=8" alt="Core stack" />
 </p>
 
 | | |
 | --- | --- |
 | **LLMs and NLP** | Retrieval-augmented generation · Amazon Bedrock · Amazon Q · Amazon Lex · Qwen2.5 · BGE embeddings · BM25 · DeBERTa · Hugging Face · DistilBERT · T5 |
-| **Machine learning** | TensorFlow · scikit-learn · Pandas · Polars · PySpark · Matplotlib · Seaborn |
+| **Machine learning** | TensorFlow · scikit-learn · Pandas · Matplotlib · Seaborn |
+| **Big data** | PySpark · AWS EMR · Kafka · Polars · DuckDB · Tableau · data warehousing |
 | **Cloud** | EC2 · CDKTF · Lambda · AWS Connect · AWS Lex · EventBridge · CDK · S3 · API Gateway · IAM · CloudFormation · Cognito · SQS/SNS · AWS EMR · Cloud Watch · Splunk · Docker · Terraform · Jenkins · GitHub Actions |
-| **Application stack** | Python · TypeScript · JavaScript · SQL · R · Node.js · Express · Angular · FastAPI · Streamlit · Kafka · Redis |
-| **Data stores** | DynamoDB · MySQL · MongoDB · SQLite · DuckDB · Tableau |
+| **Application stack** | Python · TypeScript · JavaScript · SQL · R · Node.js · Express · Angular · FastAPI · Streamlit · Redis |
+| **Data stores** | DynamoDB · MySQL · MongoDB · SQLite · DuckDB |
 
 ---
 
