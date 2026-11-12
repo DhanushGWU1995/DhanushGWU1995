@@ -45,29 +45,29 @@ flowchart LR
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/torque-diagnostics">Torque Diagnostics</a></h4>
-      Technician assistant for ABB drive manuals. Still in progress. Hybrid retrieval, a Qwen2.5 draft, and a DeBERTa check that withholds a procedure the manual does not support. The repository is private while the manual library stays off the public internet.
+      Technician assistant for ABB drive manuals. Hybrid BM25 + BGE retrieval, a Qwen2.5 draft, and a DeBERTa gate that cites indexed pages or withholds a procedure the manual does not support. Streamlit chat UI on EC2.
       <br/><br/>
-      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Qwen2.5-0B1F33?style=flat-square" /> <img src="https://img.shields.io/badge/In%20progress-4A5568?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square" /> <img src="https://img.shields.io/badge/Qwen2.5-0B1F33?style=flat-square" /> <img src="https://img.shields.io/badge/Completed-2D6A5F?style=flat-square" />
     </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/DhanushGWU1995/sms-spam-detection">SMS spam detection</a></h4>
+      ScamShield classifiers for SMS spam and consumer-fraud education. TF-IDF logistic regression, DistilBERT, hybrid BM25 + FAISS retrieval, LIME explanations, FastAPI, and Angular.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LIME-4A5568?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://course-creator-626594108279.us-central1.run.app/">AI Course Creator</a></h4>
       Multi-agent system on Google Cloud Run. Researcher, fact-checker, and writer agents turn a topic into a course.
       <br/><br/>
       <img src="https://img.shields.io/badge/Multi--agent-2D6A5F?style=flat-square" /> <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/DhanushGWU1995/6202-machine-learning-project">ECRIS</a></h4>
       Complaint intelligence on U.S. consumer-finance data, using DistilBERT and T5. <a href="https://huggingface.co/spaces/DhanushGWU1995/ECRIS">Live Space</a>
       <br/><br/>
       <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/T5-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/DhanushGWU1995/sample-chat-bot">PartSelect assistant</a></h4>
-      Appliance-parts chat with a swappable DeepSeek or OpenAI backend.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -76,6 +76,7 @@ flowchart LR
 <summary><b>More projects</b></summary>
 <br/>
 
+- **[PartSelect assistant](https://github.com/DhanushGWU1995/sample-chat-bot)**: appliance-parts chat with a swappable DeepSeek or OpenAI backend.
 - **[Health status predictor](https://github.com/DhanushGWU1995/6103-data-mining-project)**: CatBoost model on CDC BRFSS responses, with an Angular and Flask app.
 - **[Heart disease predictor](https://github.com/DhanushGWU1995/6101-mid-term-project)**: CDC survey model. [Scoring app](https://dhanushgwu1995.github.io/6101-mid-term-project/predict)
 - **[US unemployment vs job postings](https://github.com/DhanushGWU1995/6401-data-visualization-project)**: Tableau dashboard comparing U.S. unemployment with job postings across five economic sectors.
