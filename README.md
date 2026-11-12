@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,100:1B4F72&height=180&section=header&text=Dhanush%20Mathivanan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20AWS%20Cloud%20%C2%B7%20Grounded%20LLMs&descSize=18&descAlignY=58" alt="Dhanush Mathivanan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,100:1B4F72&height=180&section=header&text=Dhanush%20Mathivanan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20AWS%20Cloud%20%C2%B7%20Grounded%20LLMs&descSize=16&descAlignY=58" alt="Dhanush Mathivanan" />
 </p>
 
 <p align="center">
